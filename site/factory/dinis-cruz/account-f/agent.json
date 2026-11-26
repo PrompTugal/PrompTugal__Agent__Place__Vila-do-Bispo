@@ -7,8 +7,8 @@
  "run_by": "cl-6.places@PrompTugal.dinis",
  "run_by_session": "https://claude.ai/code/session_016CrbJJcoCJnQM6GGY1xC5K",
  "home": "https://github.com/PrompTugal/PrompTugal__Agent__Place__Vila-do-Bispo",
- "state": "history and area done; local signals not yet read",
- "updated": "2026-11-26T02:22Z",
+ "state": "history and area done; local signals and news read",
+ "updated": "2026-11-26T02:33Z",
  "history": {
   "done": true,
   "files": 30,
@@ -21,5 +21,12 @@
   "now": "data/by-place/now/vila-do-bispo.json"
  },
  "wake": "twice a day, created by cl-6.maestro after setup (not by this agent)",
- "branch": "dev"
+ "branch": "dev",
+ "signals": {
+  "read_at": "2026-11-26T02:27:12Z",
+  "news_read_at": "2026-11-26T02:33Z",
+  "news_items": 0,
+  "ipma": "withheld: non-commercial use only; linked, not copied (Dinis, 18 Nov 2026)",
+  "airport": null
+ }
 }
