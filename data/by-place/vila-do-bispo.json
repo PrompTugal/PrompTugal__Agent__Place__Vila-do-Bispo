@@ -279,10 +279,29 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T11:22Z",
+  "read_at": "2026-11-26T11:22:44Z",
   "by": "place.vila-do-bispo@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
-  "main_headline": null,
-  "items": []
+  "main_headline": {
+   "title": "Polícia Marítima apreende 181 jerricãs de combustível em Vila do Bispo",
+   "url": "https://www.barlavento.pt/policia-maritima-apreensao-jerricas-combustivel-boca-rio/",
+   "source": "Barlavento",
+   "date": "2026-11-23",
+   "read_at": "2026-11-26T11:20:36Z",
+   "names_place": true
+  },
+  "items": [
+   {
+    "title": "Polícia Marítima apreende 181 jerricãs de combustível em Vila do Bispo",
+    "url": "https://www.barlavento.pt/policia-maritima-apreensao-jerricas-combustivel-boca-rio/",
+    "published": "2026-11-23T16:37Z",
+    "date": "2026-11-23",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Vila do Bispo&feed=rss2",
+    "read_at": "2026-11-26T11:20:36Z",
+    "mentions_place": true
+   }
+  ]
  }
 }

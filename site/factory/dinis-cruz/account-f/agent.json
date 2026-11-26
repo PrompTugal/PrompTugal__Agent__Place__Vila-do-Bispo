@@ -24,9 +24,10 @@
  "branch": "dev",
  "signals": {
   "read_at": "2026-11-26T11:10:37Z",
-  "news_read_at": "2026-11-26T11:22Z",
-  "news_items": 0,
+  "news_read_at": "2026-11-26T11:22:44Z",
+  "news_items": 1,
   "ipma": "withheld: non-commercial use only; linked, not copied (Dinis, 18 Nov 2026)",
-  "airport": null
+  "airport": null,
+  "main_headline_date": "2026-11-23"
  }
 }
