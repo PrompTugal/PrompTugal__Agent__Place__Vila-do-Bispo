@@ -1,0 +1,94 @@
+{
+ "place": "vila-do-bispo",
+ "read_at": "2026-11-26T01:12:15Z",
+ "by": "board/tools/local-now.mjs (conductor@PrompTugal.dinis)",
+ "about": "Now in this place: (for Faro) adsb.lol (ODbL), with its source and the time read. IPMA weather is on weather.promptugal.news, not here. Not a warning service: follow IPMA (https://www.ipma.pt/) and ANEPC.",
+ "station": {
+  "name": "Sagres",
+  "id": 1200533,
+  "km": 8,
+  "reading": null,
+  "page": "https://www.ipma.pt/en/otempo/obs.superficie/",
+  "source": "https://api.ipma.pt/open-data/observation/meteorology/stations/observations.json"
+ },
+ "forecast": null,
+ "warnings": {
+  "withheld": true,
+  "area": "FAR (the Faro district)",
+  "active": [],
+  "why": "IPMA data is for non-commercial use only, so it is not shown here. Warnings are on weather.promptugal.news and at ipma.pt; follow IPMA and ANEPC.",
+  "page": "https://weather.promptugal.news/",
+  "source": "https://weather.promptugal.news/"
+ },
+ "fire_risk": {
+  "municipality": "0815",
+  "days": [],
+  "page": "https://www.ipma.pt/en/riscoincendio/rcm.pt/",
+  "source": "https://api.ipma.pt/open-data/forecast/meteorology/rcm/rcm-d0.json"
+ },
+ "uv": null,
+ "sea": null,
+ "airport": null,
+ "reads": {
+  "warnings": {
+   "url": null,
+   "at": "2026-11-26T01:12:12Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "observations": {
+   "url": null,
+   "at": "2026-11-26T01:12:12Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "city-daily-1080500": {
+   "url": null,
+   "at": "2026-11-26T01:12:12Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "city-daily-1080800": {
+   "url": null,
+   "at": "2026-11-26T01:12:12Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "city-daily-1081100": {
+   "url": null,
+   "at": "2026-11-26T01:12:12Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "city-daily-1081505": {
+   "url": null,
+   "at": "2026-11-26T01:12:12Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "fire-risk-d0": {
+   "url": null,
+   "at": "2026-11-26T01:12:12Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "fire-risk-d1": {
+   "url": null,
+   "at": "2026-11-26T01:12:12Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "fire-risk-d2": {
+   "url": null,
+   "at": "2026-11-26T01:12:12Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "uv": {
+   "url": null,
+   "at": "2026-11-26T01:12:12Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "sea-forecast-d0": {
+   "url": null,
+   "at": "2026-11-26T01:12:12Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "adsb": {
+   "url": "https://api.adsb.lol/v2/point/37.0144/-7.9659/40",
+   "at": "2026-11-26T01:12:15Z",
+   "status": 200
+  }
+ }
+}
