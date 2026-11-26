@@ -8,7 +8,7 @@
  "run_by_session": "https://claude.ai/code/session_016CrbJJcoCJnQM6GGY1xC5K",
  "home": "https://github.com/PrompTugal/PrompTugal__Agent__Place__Vila-do-Bispo",
  "state": "history and area done; local signals and news read",
- "updated": "2026-11-26T02:33Z",
+ "updated": "2026-11-26T06:13Z",
  "history": {
   "done": true,
   "files": 30,
@@ -24,9 +24,10 @@
  "branch": "dev",
  "signals": {
   "read_at": "2026-11-26T02:27:12Z",
-  "news_read_at": "2026-11-26T02:33Z",
-  "news_items": 0,
+  "news_read_at": "2026-11-26T06:13:32Z",
+  "news_items": 5,
   "ipma": "withheld: non-commercial use only; linked, not copied (Dinis, 18 Nov 2026)",
-  "airport": null
+  "airport": null,
+  "main_headline_date": "2026-11-25"
  }
 }
